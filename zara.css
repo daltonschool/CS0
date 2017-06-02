@@ -1,0 +1,32 @@
+* { 
+
+	font-family: "comic sans ms"; 
+	background-color: black;
+	-webkit-align-self: center;
+	align-self: center;
+}
+
+h1{ 
+
+	font-size: 100px;
+	color: red;
+
+ }
+
+h2{
+	color: blue;
+}
+
+h3{
+	color: yellow;
+}
+
+p{
+	color: white;
+}
+
+.lit{
+	color: red;
+	font-size: 200px;
+	font-weight: bold;
+}

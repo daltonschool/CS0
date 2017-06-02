@@ -1,0 +1,27 @@
+body {
+font-family: "Comic Sans MS";
+color: orange;
+}
+
+h1 {
+
+font-size:48px;
+
+}
+.doot {
+
+font-size:50px;
+font-family:"Impact";
+}
+.fakenews{
+
+font-size:100px;	
+color:red;
+.stupid{
+
+font-size:1px;
+}
+}
+*{
+	background-color: blue;
+}
