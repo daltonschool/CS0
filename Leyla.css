@@ -1,0 +1,30 @@
+body {
+	font-family: Courier;
+	background-color: #bc79f7;
+	padding-top: 50px;
+	padding-left: 50px;
+	color: #cceafc;
+}
+h1 {
+	font-size: 72px;
+}
+.quote {
+	font-style: italic;
+}
+h2 {
+	padding-right: 900px;
+
+}
+h2:hover {
+	background-color: #9a9df4;
+
+}
+.yay {
+	font-weight: bold;
+	font-size: 44px;
+	color: #ccc;
+}
+
+iframe{
+	margin-left: 300px;
+}
