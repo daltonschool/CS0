@@ -1,0 +1,27 @@
+body {
+        font-family: "Charlemagne Std";
+        color: "hot pink";
+        background-image: url("http://images.all-free-download.com/images/graphicthumb/blue_water_background_image_5_169469.jpg");
+}
+h1 {
+font-size: 65px;
+}
+.me {
+       font-size: 20px;
+       font-style: italic;
+}
+.NYC {font-size: 20px;
+}
+h3{ font-size: 16px;
+       font-style: italic;
+       background-color: white;
+       color: #051630;
+ }
+
+ img {
+       margin: 225px;
+       border: 10px solid white;
+       width: 850px;
+ }
+  iframe {margin: 325px;
+       border: 10px solid white;}
