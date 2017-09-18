@@ -1,3 +1,3 @@
 # CS0
 
-https://daltonschool.github.io/CS0/index.html
+https://daltonschool.github.io/WebPages/index.html
